@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
         ), // AppBar
         body: const Center(
           child: Text(
-            'HallO Bara',
+            'HallO Bara dan syauqi',
             textAlign: TextAlign.center,
             // style: TextStyle(fontSize: 16), // opsional
           ), // Text
